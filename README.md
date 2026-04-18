@@ -107,3 +107,15 @@ Navi runs entirely on your local machine via Ollama. Response quality may vary d
 ## License
 
 MIT License — feel free to use, modify, and share.
+
+---
+
+## Credits
+
+Asset packs used in this project:
+
+| Asset | Author | Link |
+|---|---|---|
+| Otter Sprite Pack | RiLi_XL | [itch.io](https://rili-xl.itch.io/otter-sprite-pack) |
+| Pixel Checkers - Free asset pack | dani maccari | [itch.io](https://dani-maccari.itch.io/pixel-checkers) |
+| Sprout Lands - UI Pack | Cup Nooble | [itch.io](https://cupnooble.itch.io/sprout-lands-ui-pack) |
